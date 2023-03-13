@@ -1,0 +1,49 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Chris Setzke<br>csetzke@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About Me | Personal
+
+- Wisconsin
+
+- Olive Garden Salad
+
+- Platypus
+
+## About Me | Academic
+
+- University of Wisconsin - Madison (Go Badgers)
+
+- Biology
+
+# Data Science
+
+## Course Topics | 3 things I enjoyed learning about
+
+1) How to link a Github repository to R
+
+2) How to build a personal website using R and Github
+
+3) Just general familiarity with how to navigate Github and use it for projects
+
+## Course Topics | 3 things I’d like to learn more about 
+
+1) How to better run R on a supercomputer (ways to parallelize jobs, etc.)
+
+2) Potentially learn more about other online organizational repositories, such as Evernote
+
+3) Other general coding or data science tips and tricks you think we should know about 
+
+
+## {data-background=images/madison_terrace.jpeg data-background-size=cover}
+
+
